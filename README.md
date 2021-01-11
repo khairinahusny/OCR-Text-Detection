@@ -6,8 +6,8 @@ nearness of blocks over the content, and in the changeability of the content its
 In identifying text from natural images, basic digital image processing techniques are used to detect text from the images. This includes preprocessing, extraction or text localization, classification and character detection.
 
 #### Objectives:
--[ ] Detecting character-level on sample natural images
--[ ] Using webcam for detect text in real-time
+- [ ] Detecting character-level on sample natural images
+- [ ] Using webcam for detect text in real-time
 
 #### Detecting text from a small video file
 
