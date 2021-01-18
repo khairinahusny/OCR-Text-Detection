@@ -7,7 +7,7 @@ In identifying text from natural images, basic digital image processing techniqu
 
 #### Objectives:
 - [ ] Detecting character-level on sample natural images
-- [ ] Using webcam for detect text in real-time
+- [ ] Using webcam to detect text in real-time
 
 #### Detecting text from a small video file
 
